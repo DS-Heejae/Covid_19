@@ -1,6 +1,6 @@
 # Covid_19
 
-Kaggle Corona 데이터 EDA, 사망자 수 예측 선형회귀분석
+Kaggle Corona 데이터 EDA, 사망자 수 예측 간단한 선형회귀분석(OLS 이용)
 
 1. 코드 확인:
 https://nbviewer.jupyter.org/github/DS-Heejae/Covid_19/blob/master/corona.ipynb
