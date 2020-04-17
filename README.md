@@ -9,10 +9,14 @@ https://nbviewer.jupyter.org/github/DS-Heejae/Covid_19/blob/master/corona.ipynb
 
 - kaggle 데이터
   - train 데이터
-    - Id,Province/State,Country/Region,Lat,Long,Date(2020-01-22~2020-03-24),ConfirmedCases(누적 확진자수),Fatalities(누적 사망자수)
+    - Id
+    - Province, State,Country, Region, Lat,Long,
+    - Date(2020-01-22~2020-03-24)
+    - ConfirmedCases(누적 확진자수),Fatalities(누적 사망자수)
     
   - test 데이터
-    - ForecastId,Province/State,Country/Region,Lat,Long,Date
+    - ForecastId,Province/State,Country/Region,Lat,Long: train 데이터와 동일
+    - Date(2020-03-12~2020-04-23)
     
     
 - 데이터 분석에 추가로 사용한 외부 데이터
